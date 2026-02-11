@@ -5,6 +5,6 @@
 </head>
 <body>
     <h1>Hello, World!</h1>
-    <p>This is my first HTML page written in the terminal.</p>
+    <p>This is my first hello world web page.</p>
 </body>
 </html>
